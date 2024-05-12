@@ -1,10 +1,6 @@
 # StormReinforcement_LLM_to_help_RS_Brazil
 
-https://drive.google.com/file/d/1LeKYTgmHlCGUQyaxZcygnLljm2fFnllF/view?usp=sharing
-
-https://drive.google.com/uc?id=1LeKYTgmHlCGUQyaxZcygnLljm2fFnllF
-
-![Descrição da imagem](https://drive.google.com/file/d/1LeKYTgmHlCGUQyaxZcygnLljm2fFnllF/view?usp=sharing)
+![Descrição da imagem](https://github.com/TalesCamaraML/LLM_to_help_RS_Brazil/blob/main/ArenaGremio.png?raw=true)
 
 Em abril de 2024, o Rio Grande do Sul enfrentou um período de intensas chuvas, inicialmente previstas como eventos isolados. No entanto, as previsões logo indicaram um cenário semelhante às enchentes de 2023, demandando ações preventivas.
 
